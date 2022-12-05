@@ -1,0 +1,15 @@
+/Users/antonychase/Documents/VS_code/Epicodus/C#/week1/Queen-Attack/obj/Debug/net6.0/queen-atack.csproj.AssemblyReference.cache
+/Users/antonychase/Documents/VS_code/Epicodus/C#/week1/Queen-Attack/obj/Debug/net6.0/queen-atack.GeneratedMSBuildEditorConfig.editorconfig
+/Users/antonychase/Documents/VS_code/Epicodus/C#/week1/Queen-Attack/obj/Debug/net6.0/queen-atack.AssemblyInfoInputs.cache
+/Users/antonychase/Documents/VS_code/Epicodus/C#/week1/Queen-Attack/obj/Debug/net6.0/queen-atack.AssemblyInfo.cs
+/Users/antonychase/Documents/VS_code/Epicodus/C#/week1/Queen-Attack/obj/Debug/net6.0/queen-atack.csproj.CoreCompileInputs.cache
+/Users/antonychase/Documents/VS_code/Epicodus/C#/week1/Queen-Attack/bin/Debug/net6.0/queen-atack
+/Users/antonychase/Documents/VS_code/Epicodus/C#/week1/Queen-Attack/bin/Debug/net6.0/queen-atack.deps.json
+/Users/antonychase/Documents/VS_code/Epicodus/C#/week1/Queen-Attack/bin/Debug/net6.0/queen-atack.runtimeconfig.json
+/Users/antonychase/Documents/VS_code/Epicodus/C#/week1/Queen-Attack/bin/Debug/net6.0/queen-atack.dll
+/Users/antonychase/Documents/VS_code/Epicodus/C#/week1/Queen-Attack/bin/Debug/net6.0/queen-atack.pdb
+/Users/antonychase/Documents/VS_code/Epicodus/C#/week1/Queen-Attack/obj/Debug/net6.0/queen-atack.dll
+/Users/antonychase/Documents/VS_code/Epicodus/C#/week1/Queen-Attack/obj/Debug/net6.0/refint/queen-atack.dll
+/Users/antonychase/Documents/VS_code/Epicodus/C#/week1/Queen-Attack/obj/Debug/net6.0/queen-atack.pdb
+/Users/antonychase/Documents/VS_code/Epicodus/C#/week1/Queen-Attack/obj/Debug/net6.0/queen-atack.genruntimeconfig.cache
+/Users/antonychase/Documents/VS_code/Epicodus/C#/week1/Queen-Attack/obj/Debug/net6.0/ref/queen-atack.dll
